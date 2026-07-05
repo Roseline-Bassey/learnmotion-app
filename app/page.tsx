@@ -66,7 +66,7 @@ export default function UploadPage() {
     <ResponsiveCanvas width={1440}>
     <div
       data-node-label="LearnMotion Light Mood Variant"
-      className="relative z-0 flex w-[1440px] h-fit flex-col bg-[#08071a] font-['Inter'] overflow-clip mx-auto"
+      className="relative z-0 flex w-[1440px] h-fit flex-col bg-[#FF4B14] font-['Inter'] overflow-clip mx-auto"
     >
       <ShaderBackground />
       <div

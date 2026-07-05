@@ -107,7 +107,7 @@ export default function AnalyzingPage() {
     <ResponsiveCanvas width={1440}>
     <div
       data-node-label="LearnMotion Analyzing Loading State"
-      className="relative z-0 flex w-[1440px] h-[861px] flex-col bg-[#08071a] font-['Inter'] overflow-clip mx-auto"
+      className="relative z-0 flex w-[1440px] h-[861px] flex-col bg-[#FF4B14] font-['Inter'] overflow-clip mx-auto"
     >
       <ShaderBackground />
       <div

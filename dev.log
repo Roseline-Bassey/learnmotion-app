@@ -7,15 +7,4 @@
   - Environments: .env.local
 
  ✓ Starting...
- ✓ Ready in 2.2s
- ○ Compiling / ...
- ✓ Compiled / in 4.9s (1232 modules)
- GET / 200 in 5048ms
- GET / 200 in 54ms
- ○ Compiling /analyzing ...
- ✓ Compiled /analyzing in 859ms (1238 modules)
- ✓ Compiled /api/analyze in 333ms (643 modules)
- POST /api/analyze 200 in 449ms
- POST /api/analyze 200 in 29467ms
- ○ Compiling /results ...
- ✓ Compiled /results in 658ms (1274 modules)
+ ✓ Ready in 2.5s
